@@ -1,4 +1,9 @@
+import numpy as np
+import pandas as pd
+import altair as alt
 import streamlit as st
+import plotly.express as px
+import plotly.figure_factory as ff
 
 st.title('Title -> Pandey')                      # Title
 st.header('Header -> head')                    # Header

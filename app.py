@@ -5,7 +5,7 @@ import streamlit as st
 import plotly.express as px
 import plotly.figure_factory as ff
 
-st.title('Title -> hi , faiz , are you available in Rs.5 still')                      # Title
+st.title('Title -> hi , Aditya')                      # Title
 st.header('Header -> head')                    # Header
 st.subheader('Subheader -> suhb')              # SubHeader
 st.text('Text ->Aditya')                        # Text
